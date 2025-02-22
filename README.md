@@ -7,15 +7,11 @@ Developed alone to test my skills this small project help me learn the ins and o
 ---
 
 ### 🎥 Gameplay Showcase  
-[![Gameplay Video](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID)  
-
+ 
 ---
 
 ## 📸 Screenshots  
 <p align="left">
-  <img src="https://github.com/psycho0403/psycho0403/blob/main/NetworkProject_showcasePicture" width="400" height="400">
-</p>
-<p align="right">
   <img src="https://github.com/psycho0403/psycho0403/blob/main/NetworkProject_showcasePicture" width="400" height="400">
 </p>
 
