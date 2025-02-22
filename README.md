@@ -6,10 +6,6 @@ Developed alone to test my skills this small project help me learn the ins and o
 
 ---
 
-### 🎥 Gameplay Showcase  
- 
----
-
 ## 📸 Screenshots  
 <p align="left">
   <img src="https://github.com/psycho0403/psycho0403/blob/main/NetworkProject_showcasePicture" width="400" height="400">
