@@ -9,7 +9,10 @@ Developed alone to test my skills this small project help me learn the ins and o
 ## 📸 Screenshots  
 <p align="left">
   <img src="https://github.com/psycho0403/psycho0403/blob/main/NetworkProject_showcasePicture" width="400" height="400">
+  <img src="https://github.com/psycho0403/NetworkProject/blob/main/NetworkMovementsynk.png" >
+   synchronize all clients and the hosts movements over the network.
 </p>
+
 
 ---
 
